@@ -72,7 +72,7 @@ Expand **Output Log** after any operation to see what happened  errors, warnings
 
 ## Credits
 
-Made by **Spider toaster**,**Devryx** and **Spidey129**
+Made by **Devryx** and **Spidey129**
 
 ---
 
